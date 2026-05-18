@@ -1,0 +1,8 @@
+{
+    "sketch": "AHRS.ino",
+    "output": "build",
+    "configuration": "PartitionScheme=default,PinNumbers=default,USBMode=default",
+    "board": "arduino:esp32:nano_nora",
+    "port": "COM11",
+    "programmer": "esptool"
+}
