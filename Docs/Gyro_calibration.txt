@@ -1,0 +1,15 @@
+Adafruit Sensor Lab Gyro Calibration Results
+---------------------------------------------
+
+Final zero rate offset in radians/s: 
+-0.0012, -0.0049, -0.0367
+
+Final zero rate offset in radians/s: 
+-0.0012, -0.0061, -0.0367
+
+Final zero rate offset in radians/s: 
+-0.0012, -0.0055, -0.0373
+
+AVERAGES:
+---------------------------------------------
+-0.0012, -0.0055, -0.0369
